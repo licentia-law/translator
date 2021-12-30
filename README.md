@@ -14,6 +14,6 @@
 - shutil
 # Update
 - 2021.12.30
-  - First upload on githup
+  - Upload on githup
 - 2021.10
   - First commit
